@@ -1,0 +1,20 @@
+1.		A1	KS	KS	KS	KS	KS	Tidak Lancar
+2.		A2	SS	SS	SS	SS	SS	Lancar
+3.		A3	SS	KS	KS	S	KS	Tidak Lancar
+4.		A4	TS	KS	S	KS	KS	Tidak Lancar
+5.		A5	KS	S	SS	S	S	Lancar
+6.		A6	SS	S	S	KS	S	Lancar
+7.		A7	KS	S	S	S	S	Lancar
+8.		A8	KS	S	KS	S	S	Lancar
+9.		A9	KS	KS	KS	KS	S	Tidak Lancar
+10.		A10	S	KS	S	KS	S	Lancar
+11.		A11	KS	S	S	S	S	Lancar
+12.		A12	S	S	S	KS	S	Lancar
+13.		A13	KS	KS	KS	KS	KS	Tidak Lancar
+14.		A14	S	S	S	S	S	Lancar
+15.		A15	KS	KS	SS	KS	KS	Lancar
+16.		A16	SS	KS	SS	S	KS	Lancar
+17.		A17	SS	S	KS	KS	S	Lancar
+18.		A18	KS	KS	SS	KS	KS	Tidak Lancar
+19.		A19	S	KS	SS	TS	S	Lancar
+20.		A20	KS	TS	SS	KS	KS	Tidak Lancar
